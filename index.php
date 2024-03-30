@@ -16,14 +16,14 @@
     </div>
 
     <div class="button-container">
-        <a href="/darkEnglish/index.html">
+        <a href="/darkEnglish/index.php">
             <span></span>
             <span></span>
             <span></span>
             <span></span>
             English
         </a>
-        <a href="/darkArabic/index.html" style="letter-spacing: px;">
+        <a href="/darkArabic/index.php" style="letter-spacing: px;">
             <span></span>
             <span></span>
             <span></span>
